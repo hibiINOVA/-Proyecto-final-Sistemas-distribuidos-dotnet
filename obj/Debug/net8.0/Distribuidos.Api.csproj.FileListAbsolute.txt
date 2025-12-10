@@ -32,3 +32,4 @@
 /home/hibi/Documents/snacks/pipedream/Distribuidos.Api/obj/Debug/net8.0/Distribuidos.Api.pdb
 /home/hibi/Documents/snacks/pipedream/Distribuidos.Api/obj/Debug/net8.0/Distribuidos.Api.genruntimeconfig.cache
 /home/hibi/Documents/snacks/pipedream/Distribuidos.Api/obj/Debug/net8.0/ref/Distribuidos.Api.dll
+/home/hibi/Documents/snacks/pipedream/Distribuidos.Api/obj/Debug/net8.0/Distribuidos.Api.sourcelink.json
